@@ -1,11 +1,11 @@
-# 💫 About Me:
+
 ### ⚡ Quick Overview
-* 🛠️ **Role:** Software & AI/ML Engineer | Full-Stack Developer
-* 🎯 **Specializations:** MERN Stack, FastAPI, Docker, RAG & LLM Workflows
-* 🏆 **Highlight:** Smart India Hackathon 2025 National Finalist
-* 🚀 **Currently Building:** AI-Powered Financial Analytics Platform & Multi-Agent Resume Screening Systems
-* 📈 **Core CS Skills:** Data Structures & Algorithms, Computer Networks, Systems & Cloud Infrastructure
-* 💬 **Ask Me About:** React, Node.js, FastAPI, Multi-Agent Systems, Docker & Deployment Workflows
+*  **Role:** Software & AI/ML Engineer | Full-Stack Developer
+*  **Specializations:** MERN Stack, FastAPI, Docker, RAG & LLM Workflows
+*  **Highlight:** Smart India Hackathon 2025 National Finalist
+*  **Currently Building:** AI-Powered Financial Analytics Platform & Multi-Agent Resume Screening Systems
+*  **Core CS Skills:** Data Structures & Algorithms, Computer Networks, Systems & Cloud Infrastructure
+*  **Ask Me About:** React, Node.js, FastAPI, Multi-Agent Systems, Docker & Deployment Workflows
 
 
 ## 🌐 Socials:
