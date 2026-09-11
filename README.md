@@ -1,25 +1,149 @@
+<h1 align="center">Hi, I'm Samiksha Shete 👋</h1>
 
-### ⚡ Quick Overview
-*  **Role:** Software & AI/ML Engineer | Full-Stack Developer
-*  **Specializations:** MERN Stack, FastAPI, Docker, RAG & LLM Workflows
-*  **Highlight:** Smart India Hackathon 2025 National Finalist
-*  **Currently Building:** AI-Powered Financial Analytics Platform & Multi-Agent Resume Screening Systems
-*  **Core CS Skills:** Data Structures & Algorithms, Computer Networks, Systems & Cloud Infrastructure
-*  **Ask Me About:** React, Node.js, FastAPI, Multi-Agent Systems, Docker & Deployment Workflows
+<h3 align="center">
+Software Engineer | Full-Stack Developer | AI/ML Engineer
+</h3>
 
+<p align="center">
+I build full-stack products and AI-powered systems using MERN, FastAPI, Python, Docker, and modern ML/NLP workflows.
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samshete05/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samshete2005@gmail.com)
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=samshete05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=samshete05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=samshete05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/samshete05/">
+    <img src="https://img.shields.io/badge/LinkedIn-Samiksha%20Shete-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:samshete2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-samshete2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/samshete05">
+    <img src="https://img.shields.io/badge/GitHub-samshete05-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=samshete05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+- Software & AI/ML Engineer from Nagpur, India
+- Smart India Hackathon 2025 National Finalist
+- Strong in MERN Stack, FastAPI, Python, REST APIs, Docker, and AI/ML integrations
+- Currently building AI-powered financial analytics and multi-agent resume screening systems
+- Interested in Full-Stack Engineering, AI Engineering, Backend Development, and Applied ML roles
+- Core CS strengths: Data Structures & Algorithms, Computer Networks, Databases, and Cloud Infrastructure
+
+---
+
+## Featured Projects
+
+### AI-Powered Smart Expense Tracker
+Full-stack personal finance platform for managing wallets, budgets, goals, transactions, OCR parsing, SMS parsing, and AI-driven spending insights.
+
+**Tech:** React, Tailwind CSS, Node.js, Express, MongoDB, Mongoose, AI APIs  
+**Repo:** https://github.com/samshete05/AI-Powered-Smart-Expense-Tracker
+
+---
+
+### Recruitment Screening Multi-Agent System
+AI-powered hiring assistant where multiple specialized agents analyze resumes, understand job requirements, rank candidates, generate interview questions, and flag hiring risks.
+
+**Tech:** Python, FastAPI, Multi-Agent Systems, Docker, HTML/CSS/JS  
+**Repo:** https://github.com/samshete05/Recruitment-Screening-Multi-Agent-System
+
+---
+
+### Enterprise AI Knowledge Operating System
+Multilingual document question-answering system with OCR, hybrid retrieval, embeddings, BM25 search, reranking, and grounded answer generation.
+
+**Tech:** FastAPI, Python, OCR, ChromaDB, BM25, RAG, NLP  
+**Repo:** https://github.com/samshete05/Enterprise-AI-Knowlegde-Operating-System
+
+---
+
+### StoreMark - Store Rating App
+Full-stack store rating and feedback platform with role-based dashboards for admins, users, and store owners.
+
+**Tech:** React, Tailwind CSS, Express.js, PostgreSQL, Docker  
+**Repo:** https://github.com/samshete05/Store-Rating-App
+
+---
+
+### Multi-Domain Extractive Summarizer
+Hybrid NLP summarization system that extracts key sentences from long-form documents across domains like research, legal, medical, and news.
+
+**Tech:** Python, NLP, Machine Learning, Streamlit, TextRank  
+**Repo:** https://github.com/samshete05/Multi-domain-Extractive-Summarizer
+
+---
+
+## Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
+</p>
+
+### Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,supabase" />
+</p>
+
+### AI/ML & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+**Libraries & Tools:** NumPy, Pandas, Scikit-learn, Matplotlib, Plotly, Keras, NLP, OCR, RAG, LLM Workflows
+
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,figma,vercel" />
+</p>
+
+---
+
+## What I Can Help Build
+
+- Full-stack MERN applications
+- Backend APIs with Node.js, Express, FastAPI, and PostgreSQL/MongoDB
+- AI/ML-powered web apps
+- RAG and document question-answering systems
+- Resume screening and automation tools
+- Dashboards, admin portals, and role-based systems
+- Dockerized development and deployment workflows
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samshete05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samshete05&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samshete05&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Let's Connect
+
+I am actively looking for Software Engineering, Full-Stack Development, Backend Development, and AI/ML Engineering opportunities.
+
+- LinkedIn: https://www.linkedin.com/in/samshete05/
+- GitHub: https://github.com/samshete05
+- Email: samshete2005@gmail.com
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samshete05&style=for-the-badge&color=blue" />
+</p>
