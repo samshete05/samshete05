@@ -106,7 +106,7 @@ Hybrid NLP summarization system that extracts key sentences from long-form docum
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,vercel" />
 </p>
 
 ---
