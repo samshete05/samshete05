@@ -104,9 +104,9 @@ Hybrid NLP summarization system that extracts key sentences from long-form docum
 
 **Libraries & Tools:** NumPy, Pandas, Scikit-learn, Matplotlib, Plotly, Keras, NLP, OCR, RAG, LLM Workflows
 
-### DevOps & Tools
+### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,render" />
 </p>
 
 ---
